@@ -1,6 +1,6 @@
-function add(a,b) {console.log(${a}+${b})}
+function add(a,b) {console.log(a+b)}
 
-
+/*
 function subtract(a,b) {console.log(${a}-${b})}
 
 
@@ -21,7 +21,7 @@ function makeInt(n) {console.log(parseInt(n))
 
 var number = 5
 
-
+*/
 
 
 
